@@ -121,7 +121,7 @@
     <content><![CDATA[<blockquote>
 <p>使用 <span class="exturl" data-url="aHR0cHM6Ly9vaG15cG9zaC5kZXYv">oh-my-posh<i class="fa fa-external-link-alt"></i></span> 配置</p>
 </blockquote>
-<h3 id="下载与安装"><a href="#下载与安装" class="headerlink" title="下载与安装"></a>下载与安装</h3><p><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0phbkRlRG9iYmVsZWVyL29oLW15LXBvc2gvcmVsZWFzZXMvZG93bmxvYWQvdjE5LjE2LjEvaW5zdGFsbC1hbWQ2NC5leGU=">点击下载<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="下载与安装"><a href="#下载与安装" class="headerlink" title="下载与安装"></a>下载与安装</h3><p><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0phbkRlRG9iYmVsZWVyL29oLW15LXBvc2gvcmVsZWFzZXMvZG93bmxvYWQvdjE5LjE3LjAvaW5zdGFsbC1hbWQ2NC5leGU=">点击下载<i class="fa fa-external-link-alt"></i></span></p>
 <h3 id="安装字体"><a href="#安装字体" class="headerlink" title="安装字体"></a>安装字体</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">oh-my-posh font install</span><br></pre></td></tr></table></figure>
 
 <h4 id="将终端字体修改为已下载的字体"><a href="#将终端字体修改为已下载的字体" class="headerlink" title="将终端字体修改为已下载的字体"></a>将终端字体修改为已下载的字体</h4><h3 id="查看可选主题"><a href="#查看可选主题" class="headerlink" title="查看可选主题"></a>查看可选主题</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">Get-PoshThemes</span><br></pre></td></tr></table></figure>
